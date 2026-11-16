@@ -1,0 +1,6 @@
+{
+  "name": "OrgANice — CNHS Organizations Preview",
+  "description": "Interactive preview of the OrgANice Corcuera National High School student organizations and clubs website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
